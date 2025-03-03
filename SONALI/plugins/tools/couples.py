@@ -14,8 +14,8 @@ from SONALI.mongo.couples_db import _get_image, get_couple
 POLICE = [
     [
         InlineKeyboardButton(
-            text="|| ˹𖤍 𝗔𝗗𝗗 𝗠𝗘 𝗧𝗢 𝗚𝗥𝗢𝗨𝗣𖤍˼ ||",
-            url=f"https://t.me/zoyumusicbot?startgroup=true",
+            text="|| ˹𖤍 𝐃𝐏𝐙 𝐖𝐎𝐑𝐃𝐒 ||",
+            url=f"https://t.me/ll_DPZ_WORLDS_ll",
         ),
     ],
 ]
